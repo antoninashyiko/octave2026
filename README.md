@@ -1,0 +1,1 @@
+here are added lab works in Octave GNU that i found fun and interesting. lab6 is connected to geometry and visualization of figures ad vectors. lab7 is about polar systems and vizualization of planes.
